@@ -1,0 +1,149 @@
+* {
+    border-width: 0;
+    font-family: Titillium Web;
+}
+
+.body {
+    justify-content: center;
+    width: 1440px;
+}
+
+.header {
+    background-color: #87509c;
+    height: 596px;
+}
+
+.header-logo {
+    margin-top: 57px;
+    margin-left: 212px;
+    margin-right: 300px;
+    width: 117px;
+    height: 37px;
+}
+
+.header-menu {
+    color: #ffffff;
+    font-family: Titillium Web;
+    padding-left: 300px;
+    font-size: 18px;
+}
+
+.menu-top {
+    display: inline;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+
+.header-title {
+    color: #ffffff;
+    font-size: 40px;
+    margin-left: 267px;
+    margin-right: 267px;
+    margin-top: 157px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.header-button {
+    background: url(./img/Shape_34.svg);
+    width: 293px;
+    height: 70px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    margin-left: 674px;
+    margin-right: 674px;
+    color: #ffffff;
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.srvcs-main {
+    background-color: #17c2a4;
+    height: 747px;
+    margin-top: -40px;
+    color: #ffffff;
+}
+
+.srvcs-title {
+    font-size: 40px;
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.srvcs-line {
+    padding-right: 780px;
+    padding-left: 790px;
+}
+
+.srvcs-info {
+    font-size: 16px;
+    margin-left: 419px;
+    margin-right: 419px;
+    text-align: center;
+}
+
+.srvcs-details {
+    display: flex;
+    padding-top: 80px;
+    padding-right: 40px;
+}
+
+.srvcs-undtitle {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.srvcs-img {
+    padding-right: 150px;
+    padding-left: 160px;
+    height: 120px;
+    width: 124px;
+}
+
+.srvcs-infotxt {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding-right: 80px;
+    padding-left: 60px;
+}
+
+.team-main {
+    background-color: #e7f1f8;
+    height: 914px;
+    margin-top: -40px;
+    color: #3c4761;
+}
+
+.team-title {
+    font-size: 30px;
+    padding-top: 150px;
+    font-size: 40px;
+    line-height: 29.91px;
+    text-align: center;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.team-underline {
+    padding-right: 780px;
+    padding-left: 790px;
+    padding-bottom: -30px;
+}
+
+.team-info {
+    font-size: 16px;
+    padding-left: 550px;
+    padding-right: 560px;
+    text-align: center;
+}
+
+.team-about {
+    display: inline;
+    padding-top: 80px;
+    padding-right: 40px;
+}
